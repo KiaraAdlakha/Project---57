@@ -1,0 +1,27 @@
+body
+{
+    padding:50px;
+    background: linear-gradient(pink 0%, purple 100%);
+    color: aliceblue;
+    text-align: center;
+    font-size:35px;
+}
+#p1
+{
+    border: solid;
+    border-color: cyan;
+    color: fuchsia;
+    font-size: 30px;
+}
+#p4
+{
+    border: solid;
+    border-color: aquamarine;
+    color:coral;
+    font-size:20px;
+}
+img
+{
+  height: 400px;
+    width: 400px;
+}
